@@ -1,0 +1,6 @@
+﻿  test.c
+E:\VS-C\test_3_2\test_3_2\test.c(27,8): warning C4047: “函数”:“int”与“int *”的间接级别不同
+E:\VS-C\test_3_2\test_3_2\test.c(27,8): warning C4024: “Swap2”: 形参和实参 1 的类型不同
+E:\VS-C\test_3_2\test_3_2\test.c(27,15): warning C4047: “函数”:“int”与“int *”的间接级别不同
+E:\VS-C\test_3_2\test_3_2\test.c(27,15): warning C4024: “Swap2”: 形参和实参 2 的类型不同
+  test_3_2.vcxproj -> E:\VS-C\test_3_2\x64\Debug\test_3_2.exe
