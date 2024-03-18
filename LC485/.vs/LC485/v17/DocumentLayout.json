@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "E:\\VS-C\\Leetcode\\LC485\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{291FBD28-7812-493E-A461-907BF7CE1ECF}|LC485\\LC485.vcxproj|E:\\VS-C\\Leetcode\\LC485\\LC485\\lc485.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{291FBD28-7812-493E-A461-907BF7CE1ECF}|LC485\\LC485.vcxproj|solutionrelative:LC485\\lc485.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "lc485.c",
+              "DocumentMoniker": "E:\\VS-C\\Leetcode\\LC485\\LC485\\lc485.c",
+              "RelativeDocumentMoniker": "LC485\\lc485.c",
+              "ToolTip": "E:\\VS-C\\Leetcode\\LC485\\LC485\\lc485.c",
+              "RelativeToolTip": "LC485\\lc485.c",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAAIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
+              "WhenOpened": "2024-03-18T02:00:30.945Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
